@@ -8,7 +8,7 @@
 // Examples:
 // 1. Given A = [3, 2, 3, 2, 3], the function should return 5, because the whole array
 // is switching.
-// 2. Given A = 17, 4, -2, 4, -2, -91, the function should return 4. The longest
+// 2. Given A = [17, 4, -2, 4, -2, -91], the function should return 4. The longest
 // switching slice is [4, -2, 4, -2].
 // 3. Given A = [7, -5, -5, -5, 7, -1, 7], the function should return 3. There are two
 // switching slices of equal length: [-5, -5, -5] and [7, -1, 7].
